@@ -9,6 +9,8 @@
 
 Welcome to the PyDictionary Command-Line App! This Python-based application enables you to delve into word definitions, discover synonyms and antonyms, and even effortlessly translate words into various languages.
 
+![PyDict](https://github.com/independent-coder/PY-DICT/assets/127637860/a0929d12-d795-4e60-8407-51f4959c32da)
+
 ## Features
 
 - **Word Definitions**: Easily access in-depth word definitions with just a few keystrokes.
